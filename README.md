@@ -183,18 +183,10 @@ GET    /api/search/suggest?q={query} # Get suggestions
 
 ---
 
-
----
-
-
----
-
-
----
-
----
-
-
+## 📸 Screenshots
+ 
+> Landing Page · Shop · Search · Cart · Payment · Admin Panel
+ 
 ---
 
 <div align="center">
